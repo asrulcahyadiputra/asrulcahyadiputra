@@ -35,7 +35,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/asrul-cahyadi-putra/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Asrul Cahyadi Putra%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/asrul-cahyadi-putra/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Asrul Cahyadi Putra-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/asrulcahyadi99/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Asrul Cahyadi Putra-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:asrulcahyadiputra99@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-asrulcahyadiputra99@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
