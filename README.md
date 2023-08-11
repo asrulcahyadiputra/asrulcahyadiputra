@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Have studied Accounting Information System at Telkom University Bandung.
-- 💼 &nbsp; Working as a Web Programmer.
+- 💼 &nbsp; Working as a Lead Programmer.
 - 🌱 &nbsp; Learning more about Cloud Architecture and Systems Design.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
